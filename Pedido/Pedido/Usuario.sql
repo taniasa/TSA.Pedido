@@ -1,5 +1,0 @@
-﻿CREATE TABLE [dbo].[Usuario]
-(
-	[Id] BIGINT NOT NULL PRIMARY KEY IDENTITY, 
-    [Login] VARCHAR(120) NOT NULL
-)

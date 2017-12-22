@@ -1,8 +1,0 @@
-﻿CREATE TABLE [dbo].[Estado]
-(
-	[Id] BIGINT NOT NULL PRIMARY KEY IDENTITY, 
-    [Nome] VARCHAR(120) NOT NULL, 
-    [Sigla] VARCHAR(2) NOT NULL, 
-    [PaisId] BIGINT NOT NULL, 
-    CONSTRAINT [FK_Estado_ToPais] FOREIGN KEY ([PaisId]) REFERENCES [Pais]([Id])
-)

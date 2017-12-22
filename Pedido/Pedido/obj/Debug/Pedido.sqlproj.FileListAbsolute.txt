@@ -1,9 +1,0 @@
-D:\Playground\Pedido\Pedido\Pedido\bin\Debug\Pedido.dacpac
-D:\Playground\Pedido\Pedido\Pedido\obj\Debug\Model.xml
-D:\Playground\Pedido\Pedido\Pedido\obj\Debug\refactor.xml
-D:\Playground\Pedido\Pedido\Pedido\obj\Debug\postdeploy.sql
-D:\Playground\Pedido\Pedido\Pedido\obj\Debug\predeploy.sql
-D:\Playground\Pedido\Pedido\Pedido\obj\Debug\Pedido.dll
-D:\Playground\Pedido\Pedido\Pedido\obj\Debug\Pedido.pdb
-D:\Playground\Pedido\Pedido\Pedido\bin\Debug\Pedido.dll
-D:\Playground\Pedido\Pedido\Pedido\bin\Debug\Pedido.pdb
