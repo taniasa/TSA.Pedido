@@ -1,0 +1,6 @@
+﻿CREATE TABLE [dbo].[Item]
+(
+	[Id] BIGINT NOT NULL PRIMARY KEY, 
+    [Nome] VARCHAR(120) NOT NULL, 
+    [Descricao] VARCHAR(300) NULL
+)

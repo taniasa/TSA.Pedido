@@ -1,0 +1,5 @@
+﻿CREATE TABLE [dbo].[Pais]
+(
+	[Id] BIGINT NOT NULL PRIMARY KEY IDENTITY, 
+    [Nome] VARCHAR(120) NULL
+)
