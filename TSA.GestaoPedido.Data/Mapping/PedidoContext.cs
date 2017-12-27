@@ -33,9 +33,9 @@ namespace TSA.GestaoPedido.Data.Mapping
             modelBuilder.ApplyConfiguration(new EstadoMap());
             modelBuilder.ApplyConfiguration(new MunicipioMap());
             modelBuilder.ApplyConfiguration(new PaisMap());
-            modelBuilder.ApplyConfiguration(new PessoaFisicaMap());
+            //modelBuilder.ApplyConfiguration(new PessoaFisicaMap());
             modelBuilder.ApplyConfiguration(new PessoaMap());
-            modelBuilder.ApplyConfiguration(new PessoaJuridicaMap());
+            //modelBuilder.ApplyConfiguration(new PessoaJuridicaMap());
             modelBuilder.ApplyConfiguration(new TelefoneMap());
             modelBuilder.ApplyConfiguration(new UsuarioMap());
 
