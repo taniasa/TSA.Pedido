@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <AssemblyName>TSA.GestaoPedido.Core</AssemblyName>
+    <RootNamespace>TSA.GestaoPedido.Core</RootNamespace>
+  </PropertyGroup>
+
+</Project>
