@@ -4,7 +4,7 @@ using System.Text;
 
 namespace TSA.Pedido.Domain.Pessoas
 {
-    public class PessoaJuridica
+    public class PessoaJuridica : Pessoa
     {
 
     }

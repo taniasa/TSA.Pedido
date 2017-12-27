@@ -10,12 +10,14 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Mapping\Itens\" />
-    <Folder Include="Mapping\Pessoas\" />
-    <Folder Include="Mapping\Pedidos\" />
     <Folder Include="Repository\Itens\" />
     <Folder Include="Repository\Pedidos\" />
     <Folder Include="Repository\Pessoas\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TSA.Pedido.Core\TSA.Pedido.Core.csproj" />
+    <ProjectReference Include="..\TSA.Pedido.Domain\TSA.Pedido.Domain.csproj" />
   </ItemGroup>
 
 </Project>
